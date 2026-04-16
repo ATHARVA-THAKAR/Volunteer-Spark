@@ -1,0 +1,1 @@
+ALTER TABLE public.check_ins DROP CONSTRAINT IF EXISTS check_ins_volunteer_id_fkey;
