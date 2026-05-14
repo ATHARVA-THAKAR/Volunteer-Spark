@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your Volunteer Burnout Tracking project
 
 ## Project info
 
@@ -8,9 +8,9 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use VScode**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Simply visit the github repository and clone the project to your vs code
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -61,13 +61,6 @@ This project is built with:
 - Tailwind CSS
 
 ## How can I deploy this project?
+-Project is deployed on vercel
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## Project link: https://volunteer-spark.vercel.app/
